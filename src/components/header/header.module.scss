@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Kode+Mono:wght@400..700&family=Madimi+One&family=Protest+Strike&display=swap');
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, rgb(165, 168, 116) 0%, rgba(124,98,70,1) 75%, rgba(202,188,213,1) 100%);
+    border-radius: 10px;
+    height: 50px;
+    padding: 2rem;
+    h1{
+        color: white;
+        font-family: "Madimi One", sans-serif;
+        letter-spacing: .5rem;
+        font-size: 2.5rem;
+    }
+}

@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    .inputSearch{
+    width: 80%;
+    height:40px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px;
+    text-align: center;
+    margin: 1rem;
+    border: none;
+    font-size: larger;
+}
+}
